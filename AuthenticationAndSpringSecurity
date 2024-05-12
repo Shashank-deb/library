@@ -1,0 +1,20 @@
+Roles of higher version of authority
+Authentication
+Authorization
+Role can be accessible by the Manager using the given entity of the flow
+
+
+
+Application workflow about spring security
+
+Request ->Need to check the user using password and username JsonEncoder or Spring Security Configuration this acts as a wall
+Api send final response
+401 Unauthorized
+403 Forbidden
+
+
+
+Terms using in Security
+1.Encoding->Transfer the data
+2.Hashing->
+3.Encrypted
